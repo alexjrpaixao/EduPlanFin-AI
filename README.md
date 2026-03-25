@@ -30,3 +30,8 @@ O sistema possui três telas principais:
 
 Projeto desenvolvido para a disciplina Projeto Integrador I – UNIVESP.
 
+## 🔗 Acesso ao projeto
+
+Link do repositório:
+https://github.com/alexjrpaixao/EduPlanFin-AI
+
