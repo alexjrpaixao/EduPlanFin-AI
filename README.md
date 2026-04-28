@@ -1,37 +1,103 @@
-# EduPlanFin-AI
+# 💰 EduPlanFin-AI
 
-Sistema web desenvolvido como projeto integrador da UNIVESP.
+## 📌 Sobre o Projeto
 
-## 📚 Objetivo
+O **EduPlanFin-AI** é um sistema desenvolvido com o objetivo de auxiliar no **planejamento financeiro pessoal**, utilizando conceitos de **Educação Financeira** aliados ao uso de **Inteligência Artificial**.
 
-O EduPlanFin-AI tem como objetivo auxiliar professores no planejamento de aulas de Educação Financeira, gerando automaticamente planos de aula a partir de informações inseridas pelo usuário.
+A proposta do projeto é oferecer uma ferramenta simples, acessível e educativa, que ajude usuários a tomar decisões financeiras mais conscientes, promovendo organização, controle de gastos e planejamento de metas.
 
-## 💻 Tecnologias Utilizadas
+---
 
-- Arquitetura Web
-- Banco de Dados (modelo relacional)
-- Protótipo de interface
-- Controle de versão com GitHub
+## 🎯 Objetivo
 
-## ⚙️ Funcionalidades
+Desenvolver uma solução digital que contribua para o ensino e aplicação prática da educação financeira, podendo ser utilizada por:
 
-- Inserção de dados (tema, série, tempo)
-- Geração automática de plano de aula
-- Organização de conteúdo pedagógico
+* Estudantes
+* Professores
+* Usuários que desejam melhorar sua organização financeira
 
-## 🖥️ Protótipo
+---
 
-O sistema possui três telas principais:
-- Tela de login
-- Formulário de entrada de dados
-- Tela de resultado
+## 🚀 Funcionalidades
 
-## 👨‍🎓 Projeto Acadêmico
+* 📊 Visualização de informações financeiras
+* 💡 Apoio à tomada de decisão
+* 🧠 Simulação de uso de Inteligência Artificial
+* 📱 Interface simples e intuitiva
 
-Projeto desenvolvido para a disciplina Projeto Integrador I – UNIVESP.
+---
 
-## 🔗 Acesso ao projeto
+## 🛠️ Tecnologias Utilizadas
 
-Link do repositório:
-https://github.com/alexjrpaixao/EduPlanFin-AI
+* HTML
+* CSS
+* JavaScript
+* Conceitos de Inteligência Artificial
 
+---
+
+## 📸 Telas do Sistema
+
+### 🖥️ Tela 1
+
+![Tela 1](tela1.png)
+
+### 🖥️ Tela 2
+
+![Tela 2](tela2.png)
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+EduPlanFin-AI/
+│
+├── tela1.png
+├── tela2.png
+└── README.md
+```
+
+---
+
+## ▶️ Como Executar o Projeto
+
+1. Faça o download ou clone este repositório:
+
+```
+git clone https://github.com/alexjrpaixao/EduPlanFin-AI.git
+```
+
+2. Abra a pasta do projeto
+
+3. Execute o arquivo `index.html` (caso adicionado futuramente)
+
+---
+
+## 📈 Possíveis Melhorias Futuras
+
+* Integração real com APIs de Inteligência Artificial
+* Criação de um dashboard interativo
+* Cadastro de usuários
+* Armazenamento de dados financeiros
+* Versão mobile
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Alex Junior Paixão**
+📚 Estudante de Administração e Tecnologia da Informação
+💪 Profissional de Educação Física
+
+---
+
+## 📄 Licença
+
+Este projeto é de uso acadêmico e pode ser utilizado para fins de estudo e aprimoramento.
+
+---
+
+## ⭐ Considerações Finais
+
+O EduPlanFin-AI representa uma iniciativa de unir tecnologia e educação financeira, contribuindo para a formação de usuários mais conscientes e preparados para lidar com suas finanças no dia a dia.
