@@ -1,19 +1,26 @@
+# 💰 EduPlanFin-AI
+
 ## 🌐 Acesse o sistema online
+
 👉 https://alexjrpaixao.github.io/EduPlanFin-AI/
 
-# 💰 EduPlanFin-AI
+## 💻 Repositório no GitHub
+
+👉 https://github.com/alexjrpaixao/EduPlanFin-AI
+
+---
 
 ## 📌 Sobre o Projeto
 
 O **EduPlanFin-AI** é um sistema desenvolvido com o objetivo de auxiliar no **planejamento financeiro pessoal**, utilizando conceitos de **Educação Financeira** aliados ao uso de **Inteligência Artificial**.
 
-A proposta do projeto é oferecer uma ferramenta simples, acessível e educativa, que ajude usuários a tomar decisões financeiras mais conscientes, promovendo organização, controle de gastos e planejamento de metas.
+A proposta é oferecer uma ferramenta simples, acessível e educativa, que ajude usuários a tomar decisões financeiras mais conscientes, promovendo organização, controle de gastos e planejamento de metas.
 
 ---
 
 ## 🎯 Objetivo
 
-Desenvolver uma solução digital que contribua para o ensino e aplicação prática da educação financeira, podendo ser utilizada por:
+Desenvolver uma solução digital voltada para:
 
 * Estudantes
 * Professores
@@ -56,16 +63,18 @@ Desenvolver uma solução digital que contribua para o ensino e aplicação prá
 ```
 EduPlanFin-AI/
 │
+├── index.html
 ├── tela1.png
 ├── tela2.png
-└── README.md
+├── style.css
+└── script.js
 ```
 
 ---
 
-## ▶️ Como Executar o Projeto
+## ▶️ Como Executar Localmente
 
-1. Faça o download ou clone este repositório:
+1. Baixe ou clone este repositório:
 
 ```
 git clone https://github.com/alexjrpaixao/EduPlanFin-AI.git
@@ -73,25 +82,32 @@ git clone https://github.com/alexjrpaixao/EduPlanFin-AI.git
 
 2. Abra a pasta do projeto
 
-3. Execute o arquivo `index.html` (caso adicionado futuramente)
+3. Execute o arquivo `index.html` no navegador
 
 ---
 
-## 📈 Possíveis Melhorias Futuras
+## 📈 Melhorias Futuras
 
-* Integração real com APIs de Inteligência Artificial
-* Criação de um dashboard interativo
+* Integração com APIs reais de Inteligência Artificial
+* Criação de dashboard interativo
 * Cadastro de usuários
 * Armazenamento de dados financeiros
 * Versão mobile
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-Desenvolvido por **Alex Junior Paixão**
+**Alex Junior Paixão**
 📚 Estudante de Administração e Tecnologia da Informação
 💪 Profissional de Educação Física
+**Ester Francine ZAmbate Fernandes**
+**Henrique Oliveira Sampaio**
+**Júlio Bonacim Silva**
+**Leandro Carvalho Capucho**
+**Thais de Souza Costa**
+**Ulisses Henrique SAntos Silva**
+**Victor Henrique da Silva**
 
 ---
 
