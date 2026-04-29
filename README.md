@@ -1,3 +1,6 @@
+## 🌐 Acesse o sistema online
+👉 https://alexjrpaixao.github.io/EduPlanFin-AI/
+
 # 💰 EduPlanFin-AI
 
 ## 📌 Sobre o Projeto
